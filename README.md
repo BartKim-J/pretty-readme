@@ -12,7 +12,8 @@
         height: 200px;
         border-radius: 50%;
         box-shadow: 10px 10px rgba(0, 0, 255, .2);
-        margin: 30px"/>
+        margin: 30px">
+  </div>
   <div id="main">
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python%203.7%20-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="python" /></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" alt="docker" /></a>
@@ -25,7 +26,7 @@
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white" alt="redis" /></a>
   </div>
 </div>
-
+g
 
 ## Getting Started
 
