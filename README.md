@@ -1,10 +1,3 @@
-<style>
-    #user-content-project-logo {
-        border-radius: 50%;
-        margin: 50px;
-    }
-</style>
-
 <div id="header" align="center">
   <h1>Pretty Read.Me</h1>
   <div id="ci-cd">
@@ -15,7 +8,7 @@
   </div>
   <div id="project-logo">
     <a href="https://github.com/BartKim-J/pretty-readme" >
-      <img src="https://avatars.githubusercontent.com/u/36470472?v=4" width="200px" height="200px" alt="project-logo" style="border-radius:50%; margin: 30px"/>
+      <img src="https://user-images.githubusercontent.com/36470472/128664018-103bff8e-6be3-4996-9bbd-41d82a7d48d8.png" width="200px" height="200px" alt="project-logo"/>
     </a>
   </div>
   <div id="main">
