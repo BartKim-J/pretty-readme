@@ -7,15 +7,14 @@
       </a>
   </div>
   <img
-    style="background-image: url(https://avatars.githubusercontent.com/u/36470472?v=4); 
-        background-repeat : no-repeat;
+    src="https://avatars.githubusercontent.com/u/36470472?v=4"
+    width="200px"
+    height="200px"
+    style="background-repeat : no-repeat;
         background-size : cover;
-        width: 200px; 
-        height: 200px;
         border-radius: 50%;
         box-shadow: 10px 10px rgba(0, 0, 255, .2);
-        margin: 30px">
-  </img>
+        margin: 30px" />
   <div id="main">
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python%203.7%20-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="python" /></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" alt="docker" /></a>
