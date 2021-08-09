@@ -1,10 +1,12 @@
 <div id="header" align="center">
   <h1>Pretty Read.Me</h1>
-  <a href="https://circleci.com/gh/EineBlume/chatie-server/tree/master">
-    <img src="https://circleci.com/gh/BartKim-J/pretty-readme/tree/master.svg?style=shield" alt="circleci" />
-    <img src="https://codecov.io/gh/BartKim-J/pretty-readme/branch/master/graph/badge.svg?token=lfCT6WAgUr" alt="codecov">
-  </a>
-  <div
+  <div id="ci-cd">
+      <a href="https://circleci.com/gh/EineBlume/chatie-server/tree/master">
+        <img src="https://circleci.com/gh/BartKim-J/pretty-readme/tree/master.svg?style=shield" alt="circleci" />
+        <img src="https://codecov.io/gh/BartKim-J/pretty-readme/branch/master/graph/badge.svg?token=lfCT6WAgUr" alt="codecov">
+      </a>
+  </div>
+  <img
     style="background-image: url(https://avatars.githubusercontent.com/u/36470472?v=4); 
         background-repeat : no-repeat;
         background-size : cover;
@@ -13,7 +15,7 @@
         border-radius: 50%;
         box-shadow: 10px 10px rgba(0, 0, 255, .2);
         margin: 30px">
-  </div>
+  </img>
   <div id="main">
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python%203.7%20-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="python" /></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" alt="docker" /></a>
@@ -26,7 +28,7 @@
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white" alt="redis" /></a>
   </div>
 </div>
-g
+
 
 ## Getting Started
 
