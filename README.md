@@ -6,9 +6,11 @@
         <img src="https://codecov.io/gh/BartKim-J/pretty-readme/branch/master/graph/badge.svg?token=lfCT6WAgUr" alt="codecov">
       </a>
   </div>
-  <a href="https://github.com/BartKim-J/pretty-readme" >
-      <img src="https://avatars.githubusercontent.com/u/36470472?v=4" width="200px" height="200px" alt="logo" style="border-radius:50%; margin: 30px"/>
-  </a>
+  <div id="project-logo">
+    <a href="https://github.com/BartKim-J/pretty-readme" >
+      <img src="https://avatars.githubusercontent.com/u/36470472?v=4" width="200px" height="200px" alt="project-logo" style="border-radius:50%; margin: 30px"/>
+    </a>
+  </div>
   <div id="main">
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python%203.7%20-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="python" /></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" alt="docker" /></a>
