@@ -1,3 +1,10 @@
+<style>
+    #user-content-project-logo {
+        border-radius: 50%;
+        margin: 50px;
+    }
+</style>
+
 <div id="header" align="center">
   <h1>Pretty Read.Me</h1>
   <div id="ci-cd">
