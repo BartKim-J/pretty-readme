@@ -1,21 +1,24 @@
 <div id="header" align="center">
   <h1>Pretty Read.Me</h1>
-  <a href="https://circleci.com/gh/EineBlume/chatie-server/tree/master">
-    <img src="https://circleci.com/gh/BartKim-J/pretty-readme/tree/master.svg?style=shield" alt="circleci" />
-    <img src="https://codecov.io/gh/BartKim-J/pretty-readme/branch/master/graph/badge.svg?token=lfCT6WAgUr" alt="codecov">
-  </a>
-  <p>
-    <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/36470472?v=4" width="200px" height="200" alt="Logo">
-  </p>
+  <div id="ci-cd">
+      <a href="https://circleci.com/gh/EineBlume/chatie-server/tree/master">
+        <img src="https://circleci.com/gh/BartKim-J/pretty-readme/tree/master.svg?style=shield" alt="circleci" />
+        <img src="https://codecov.io/gh/BartKim-J/pretty-readme/branch/master/graph/badge.svg?token=lfCT6WAgUr" alt="codecov">
+      </a>
+  </div>
+  <div id="project-logo">
+    <a href="https://github.com/BartKim-J/pretty-readme" >
+      <img src="https://user-images.githubusercontent.com/36470472/128664018-103bff8e-6be3-4996-9bbd-41d82a7d48d8.png" width="200px" height="200px" alt="project-logo"/>
+    </a>
+  </div>
   <div id="main">
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python%203.7%20-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="python" /></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python%203.6%20|%203.7%20|%203.8%20-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="python" /></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" alt="docker" /></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white" alt="kubernetes" /></a>
   </div>
   <div id="sub">
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Django%202.2-092E20?style=flat&logo=Django&logoColor=white" alt="django" /></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Django%203.4-092E20?style=flat&logo=Django&logoColor=white" alt="django" /></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=Mysql&logoColor=white" alt="mysql" /></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white" alt="amazon-dynamodb" /></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white" alt="redis" /></a>
   </div>
 </div>
