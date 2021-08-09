@@ -12,14 +12,13 @@
     </a>
   </div>
   <div id="main">
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python%203.7%20-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="python" /></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python%203.6%20|%203.7%20|%203.8%20-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="python" /></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" alt="docker" /></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white" alt="kubernetes" /></a>
   </div>
   <div id="sub">
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Django%202.2-092E20?style=flat&logo=Django&logoColor=white" alt="django" /></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Django%203.4-092E20?style=flat&logo=Django&logoColor=white" alt="django" /></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=Mysql&logoColor=white" alt="mysql" /></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white" alt="amazon-dynamodb" /></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white" alt="redis" /></a>
   </div>
 </div>
