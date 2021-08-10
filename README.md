@@ -3,7 +3,7 @@
   <div id="ci-cd">
       <a href="https://circleci.com/gh/EineBlume/chatie-server/tree/master">
         <img src="https://circleci.com/gh/BartKim-J/pretty-readme/tree/master.svg?style=shield" alt="circleci" />
-        <img src="https://codecov.io/gh/BartKim-J/pretty-readme/branch/master/graph/badge.svg?token=lfCT6WAgUr" alt="codecov">
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBartKim-J%2Fpretty-readme&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="codecov">
       </a>
   </div>
   <div id="project-logo">
@@ -22,7 +22,6 @@
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white" alt="redis" /></a>
   </div>
 </div>
-
 
 ## Getting Started
 
