@@ -3,7 +3,10 @@
   <div id="ci-cd">
       <a href="https://circleci.com/gh/EineBlume/chatie-server/tree/master">
         <img src="https://circleci.com/gh/BartKim-J/pretty-readme/tree/master.svg?style=shield" alt="circleci" />
-        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBartKim-J%2Fpretty-readme&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="codecov">
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBartKim-J%2Fpretty-readme&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="codacy">
+      </a>
+      <a href="https://www.codacy.com/gh/BartKim-J/pretty-readme/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BartKim-J/pretty-readme&amp;utm_campaign=Badge_Grade">
+        <img src="https://app.codacy.com/project/badge/Grade/3f7731198b5f42dc99bb0e8e0ca86370" alt="circleci" />
       </a>
   </div>
   <div id="project-logo">
